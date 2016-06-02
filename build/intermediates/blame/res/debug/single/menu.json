@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\menu\\remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\menu\\delete_contact.xml"
+    }
+]
