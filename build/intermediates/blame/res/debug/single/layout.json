@@ -112,12 +112,12 @@
         "source": "D:\\Third\\ChuangYeQuann\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
-        "source": "D:\\Third\\ChuangYeQuann\\res\\layout\\row_received_voice_call.xml"
-    },
-    {
         "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
         "source": "D:\\Third\\ChuangYeQuann\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\layout\\row_received_voice_call.xml"
     },
     {
         "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",

@@ -44,16 +44,16 @@
         "source": "D:\\Third\\ChuangYeQuann\\res\\anim\\hold.xml"
     },
     {
+        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\Third\\ChuangYeQuann\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
         "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
         "source": "D:\\Third\\ChuangYeQuann\\res\\anim\\push_top_out.xml"
     },
     {
         "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
         "source": "D:\\Third\\ChuangYeQuann\\res\\anim\\fade_in.xml"
-    },
-    {
-        "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
-        "source": "D:\\Third\\ChuangYeQuann\\res\\anim\\slide_out_to_right.xml"
     },
     {
         "merged": "D:\\Third\\ChuangYeQuann\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
